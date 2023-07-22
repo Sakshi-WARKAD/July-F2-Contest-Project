@@ -1,0 +1,113 @@
+.nav-info{
+    position: sticky;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    align-content: center;
+    position:sticky;
+    
+}
+.frame{
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
+}
+.frame, .group{
+    gap:2px;
+}
+.logo ,.Otaria{
+    gap:2px;
+}
+.line, .blog{
+    gap:2px;
+    margin-left: 5px; 
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+.hero-section{
+    display:flex;
+}
+.search-bar{
+    display: block;
+}
+.image{
+    justify-content:space-between;
+    margin-left: 150px;
+    
+}
+.hero-section{
+    margin-left:30px;
+    align-items: center;
+    background-image:url("Rectangle.jpg");
+    background-repeat: no-repeat;
+    margin: 30px;
+    
+}
+.explore,.search-bar,.design{
+       padding: 10px;
+       
+}
+.explore-section{
+    line-height: 10px;
+    margin:70px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.Latest-blog-section{
+    display: flex;
+}
+.robothand-image{
+    width: 60%;
+    height: 300px;
+    margin:10px;
+    padding:20px;
+    /* bottom: 20px; */
+    margin-left: 20px;
+
+}
+.Latest-blog-section{
+    background-image:url("Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    margin:30px;
+    margin-right: 10px;
+    align-self: center;
+    gap:10px;
+    margin-bottom: 30px;
+
+}
+.info-section{
+    
+    width:70%;
+    padding:40px;
+    margin:30px;
+    padding-top: 10px;
+    padding-left:20px;
+}
+.card-container{
+    display: flex;    
+}
+.footer-section{
+    display:flex;
+    background-image:url("Rectangle.jpg");
+    background-repeat: no-repeat;
+    margin-left:30px;
+    margin: 30px;
+}
+..download-section,.download-button{
+    padding: 10px;
+}
+.footer-info{
+    line-height: 10px;
+    margin:70px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.image-footer{
+    padding: 20px;
+    margin: 30px;
+}
